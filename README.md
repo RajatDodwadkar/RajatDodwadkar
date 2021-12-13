@@ -12,7 +12,7 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 
 ## I'm a Student and coder!! 
 
-- 🌱 I’m currently learning about Datascience, Machine learning and Artificial Nueral Networks.
+- 🌱 I’m currently learning about Datascience, Machine learning and Artificial Intelligence.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
