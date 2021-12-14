@@ -12,11 +12,11 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 
 ## I'm a Student and coder!! 
 
-- 🌱 I’m currently learning about Datascience, Machine learning and Artificial Intelligence.
-- 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
+- 🌱 I’m currently learning about Machine learning and Artificial Intelligence.
+- 💬 I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I enjoy Music, Gaming, Travelling, and obviously Programming!
+- ⚡ Fun fact:  I enjoy Music, Gaming, Travelling, Sports and obviously Programming!
 
 ### Spotify Playing 🎧
 
