@@ -5,14 +5,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RajatDodwadkar)
 
-Hi, I'm Rajat, a student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology](https://git.edu/) .!
+Hi, I'm Rajat,
 
+## I'm a developer!! 
 
-
-
-## I'm a Student and coder!! 
-
-- 🌱 I’m currently learning about Machine learning and Artificial Intelligence.
+- 🌱 I’m currently learning about Java Backend development, Machine learning and Artificial Intelligence.
 - 💬 I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with others here for projects
 - 🥅 2023 Goals: Contribute more to Open Source projects
