@@ -7,7 +7,7 @@
 - 🔭 Currently working on **scalable backend systems** and **ML-powered applications**
 - 🌱 Learning: **Distributed Systems** and **LLM fine-tuning**
 - 💬 Ask me about: **Java microservices** or **computer vision models**
-- ⚡ Fun fact: Taekwondo national player who loves automating tasks with Python scripts!
+- ⚡ Fun fact: Taekwondo athlete who loves traininig ML models!
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### 🏆 ML Highlights
 - Built **real-time object detection** systems (YOLOv5) with 20% accuracy improvement
-- Secured **AI programming with Python** scholarship from AWS Deepracer student.
+- Secured **AI programming with Python** scholarship from AWS Deepracer student
 
 ### 📈 GitHub Stats
 
