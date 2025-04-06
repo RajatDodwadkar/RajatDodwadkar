@@ -1,13 +1,14 @@
 ### Hi there, I'm Rajat Dodwadkar 👋
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=RajatDodwadkar)](https://github.com/RajatDodwadkar)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-2ea44f?style=flat)](https://rajatdodwadkar.github.io/)
 
 **Backend Developer | Machine Learning Engineer | Java · Python · Cloud**
 
 - 🔭 Currently working on **scalable backend systems** and **ML-powered applications**
 - 🌱 Learning: **Distributed Systems** and **LLM fine-tuning**
 - 💬 Ask me about: **Java microservices** or **computer vision models**
-- ⚡ Fun fact: Taekwondo athlete who loves traininig ML models!
+- ⚡ Fun fact: Taekwondo athlete who loves training ML models!
 
 ---
 
@@ -47,9 +48,6 @@
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
   <img alt="LinkedIn" width="26px" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg"/>
 </a>
-<a href="https://twitter.com/Rajatdodwadkar">
-  <img alt="Twitter" width="26px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"/>
-</a>
-<a href="https://www.kaggle.com/yourprofile">
-  <img alt="Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
+<a href="https://rajatdodwadkar.github.io/">
+  <img alt="Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 </a>
