@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-- 💼 Software Developer at Clarivate, working on **scalable backend systems** & **cloud-native apps**
-- 🤖 Passionate about combining **machine learning** with real-world backend products
-- 🧠 Exploring **distributed systems**, **LLMs**, and **edge AI applications**
-- 💬 Let’s chat about Java microservices or real-time ML inference systems
-- 🥋 National Taekwondo athlete reimagining ML with discipline and structure
+- 💼 Software Developer at Clarivate, building **enterprise-grade backend systems**
+- 🤖 Merging **machine learning** with real-world products (from healthtech to agriculture)
+- 🌐 Exploring **distributed systems**, **LLMs**, and **cloud-native apps**
+- 🥋 Taekwondo athlete — because debugging code and dodging kicks need equal reflexes
+- 💬 Ask me about: scalable backend design, YOLO models, Redis tricks, or Python for ML
 
 ---
 
@@ -47,34 +47,22 @@
 
 ---
 
-### 🏆 Notable Highlights
+### 🌟 Highlight Reel
 
-- 🎤 **Guest Speaker**: Delivered talks on **YOLO Object Detection** and **ML with Linear Regression**  
-- 🥇 Secured **AWS AI Programming Nanodegree Scholarship** via DeepRacer competition  
-- 🤖 Developed real-time **object detection systems** improving accuracy by 20%  
-- 🌾 Built YOLOv5-based **crop protection system** using Raspberry Pi + automated deterrents  
-- 🧪 Led multiple **healthcare analytics features** in DRG Fusion platform: dashboards, subscriptions, and advanced search  
-- 🥋 Represented **VTU** at the **AIU National Taekwondo Championships**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RajatDodwadkar&show_icons=true&theme=radical&hide=issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatDodwadkar&layout=compact&theme=radical" />
-</p>
+- 🎤 Gave talks on **YOLO Object Detection** & **Intro to ML with Linear Regression**
+- 🏆 Won **AWS AI Programming Nanodegree Scholarship** via DeepRacer student challenge
+- 🔬 Engineered **real-time crop protection system** using YOLOv5 + Raspberry Pi
+- 🏥 Built interactive dashboards and advanced search features for **healthcare analytics**
+- 🥋 Represented **VTU** at **AIU Taekwondo Nationals** (Black Belt ✊)
 
 ---
 
-### 🔗 Connect With Me
+### 🎉 Fun Zone
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajatdodwadkar/"><img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-  <a href="https://twitter.com/Rajatdodwadkar"><img alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" /></a>
-  <a href="https://rajatdodwadkar.github.io/"><img alt="Portfolio" width="30px" src="https://img.icons8.com/ios-filled/50/000000/domain.png"/></a>
-</p>
-
----
-
-> “Build like an engineer, think like a researcher, strike like a martial artist.” – Rajat 🚀
+```bash
+> life run --debug --mode=playful
+✔ Coding Java microservices
+✔ Training YOLO models on GPU
+✔ Breaking into sprints (and sometimes breaking boards 🥋)
+✔ Dreaming in JSON and waking up to git commits
+✔ Favorite hobby: Turning ☕ into scalable systems
