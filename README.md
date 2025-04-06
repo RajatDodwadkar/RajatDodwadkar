@@ -65,4 +65,4 @@
 ✔ Training YOLO models on GPU
 ✔ Breaking into sprints (and sometimes breaking boards 🥋)
 ✔ Dreaming in JSON and waking up to git commits
-✔ Favorite hobby: Turning ☕ into scalable systems
+✔ Favorite hobby: Training ML models for a Miss AI universe!
