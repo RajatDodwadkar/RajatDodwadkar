@@ -1,50 +1,55 @@
-### Hi there, I'm Rajat  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Rajat Dodwadkar 👋
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RajatDodwadkar)](https://github.com/RajatDodwadkar)
 
+**Backend Developer | Machine Learning Engineer | Java · Python · Cloud**
 
+- 🔭 Currently working on **scalable backend systems** and **ML-powered applications**
+- 🌱 Learning: **Distributed Systems** and **LLM fine-tuning**
+- 💬 Ask me about: **Java microservices** or **computer vision models**
+- ⚡ Fun fact: Taekwondo national player who loves automating tasks with Python scripts!
 
-![](https://visitor-badge.glitch.me/badge?page_id=RajatDodwadkar)
+---
 
-Hi, I'm Rajat,
+### 🛠 Tech Stack
 
-## I'm a developer!! 
+**Backend Development**  
+<img alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/> 
+<img alt="Spring" width="26px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/> 
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
-- 🌱 I’m currently learning about Java Backend development, Machine learning and Artificial Intelligence.
-- 💬 I am always happy to help with anything I know, ask me anything
-- 👯 I’m looking to collaborate with others here for projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I enjoy Music, Gaming, Travelling, Sports and obviously Programming!
+**Machine Learning**  
+<img alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
+<img alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"/>
+<img alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
 
-### Spotify Playing 🎧
+**Cloud & DevOps**  
+<img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/> 
+<img alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+**Databases**  
+<img alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png"/> 
+<img alt="Redis" width="26px" src="https://redis.io/images/redis-white.png"/>
 
-### Connect with me:
+---
+
+### 🏆 ML Highlights
+- Built **real-time object detection** systems (YOLOv5) with 20% accuracy improvement
+- Secured **AI programming with Python** scholarship from AWS Deepracer student.
+
+### 📈 GitHub Stats
+
+[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajatDodwadkar&show_icons=true&theme=radical&hide=issues)](https://github.com/RajatDodwadkar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatDodwadkar&layout=compact&theme=radical)](https://github.com/RajatDodwadkar)
+
+### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
-  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg" />
+  <img alt="LinkedIn" width="26px" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg"/>
 </a>
-
 <a href="https://twitter.com/Rajatdodwadkar">
-  <img align="left" alt="Rajat Dodwadkar | Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
+  <img alt="Twitter" width="26px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"/>
 </a>
-
-<a href="https://www.instagram.com/rajat_dodwadkar/">
-  <img align="left" alt="Rajat's Instagram" width="22px" src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" />
+<a href="https://www.kaggle.com/yourprofile">
+  <img alt="Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
 </a>
-
-
-<br />
-
-### Languages and Tools:
-<a >
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
-<img align="left" alt="Anaconda navigator" width="26px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" />
-</a>
-<br />
-
