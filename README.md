@@ -53,7 +53,7 @@
 - 🏆 Won **AWS AI Programming Nanodegree Scholarship** via DeepRacer student challenge
 - 🔬 Engineered **real-time crop protection system** using YOLOv5 + Raspberry Pi
 - 🏥 Built interactive dashboards and advanced search features for **healthcare analytics**
-- 🥋 Represented **VTU** at **AIU Taekwondo Nationals** (Black Belt ✊)
+- 🥋 Flexed both code and combat skills at **AIU Taekwondo Nationals**
 
 ---
 
