@@ -38,11 +38,6 @@
 - Built **real-time object detection** systems (YOLOv5) with 20% accuracy improvement
 - Secured **AI programming with Python** scholarship from AWS Deepracer student
 
-### 📈 GitHub Stats
-
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajatDodwadkar&show_icons=true&theme=radical&hide=issues)](https://github.com/RajatDodwadkar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatDodwadkar&layout=compact&theme=radical)](https://github.com/RajatDodwadkar)
-
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
