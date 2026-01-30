@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 💼 Software Developer at Clarivate, building **enterprise-grade backend systems**
+- 💼 Software Developer at Oracle, building **enterprise-grade backend systems**
 - 🤖 Merging **machine learning** with real-world products (from healthtech to agriculture)
 - 🌐 Exploring **distributed systems**, **LLMs**, and **cloud-native apps**
 - 🥋 Taekwondo athlete — because debugging code and dodging kicks need equal reflexes
