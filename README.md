@@ -21,7 +21,7 @@
 - 🤖 Merging **machine learning** with real-world products (from healthtech to agriculture)
 - 🌐 Exploring **distributed systems**, **LLMs**, and **cloud-native apps**
 - 🥋 Taekwondo athlete — because debugging code and dodging kicks need equal reflexes
-- 💬 Ask me about: scalable backend design, YOLO models, Redis tricks, or Python for ML
+- 💬 Ask me about: scalable backend design, Machine Learning or about my game of foootball.
 
 ---
 
